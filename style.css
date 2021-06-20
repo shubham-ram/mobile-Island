@@ -1,0 +1,97 @@
+body{
+    padding: 30px 400px 30px;
+    background-color: #F4ACB7 !important;
+}
+h1{margin-bottom: 2rem !important;}
+h2{margin-bottom: 2rem !important;}
+.headng{text-shadow: 2px 2px 1px #f895a4;}
+
+.main-content{
+    background-color: whitesmoke;
+    padding: 30px;
+    text-align: center;
+    border-radius:15px ;
+}
+
+.table{padding:35px 0;}
+.flagship{margin-top: 2rem}
+
+table{
+    width: 100%;
+    font-size: 18px;
+    border-spacing: 3px;
+    /* background-color: #fcfcfc; */
+}
+th{
+    text-align: center;
+    font-size: 20px;
+    padding: 12px 20px;
+    background-color: #FEC89A;
+}
+td{
+    text-align: center;
+    padding: 12px 20px;
+}
+td p{font-size: 13px; display: inline;}
+tr{ border-style: none !important; } 
+tr td:nth-child(1){ text-align: left;}
+th:nth-child(1){text-align: left;}
+tr:nth-child(odd){background-color: #f7e8e1 !important;}
+
+.main-card  {
+    display: flex;
+    justify-content: space-around;
+}
+.our-best{
+    margin: 2rem 0;
+    /* background-color: #fff  ; */
+    padding-bottom:10px ;
+}
+
+.cardng{
+    width: 270px;
+    height: 385px;
+    border-radius: 15px !important;
+    padding: 15px;
+    background-color: #D8E2DC   !important ;
+    box-shadow: 5px 5px 10px gray;
+}
+.btn{ width:100px !important;}
+li{text-align: left;}
+.carousel-item{left:200px; height: 410px}
+
+.button{
+    position: absolute;
+    bottom :40px;
+    left: 90px;
+}
+.sd{
+    width: 45px !important;
+    height: 45px !important;
+    background-color:#b6b6b5;
+    border-radius: 37px;
+}
+
+.about, .contact{
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.about p, .contact p {
+    color: rgb(138, 138, 138);
+}
+
+hr{
+    height: 0.11rem !important;
+}
+p a{
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+
+.cc{
+    text-align: center;
+    padding-top: 1.5rem;
+    font-size: 1rem;
+}
